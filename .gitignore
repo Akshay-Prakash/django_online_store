@@ -1,0 +1,7 @@
+demo_env
+*.log
+*.pyc
+**/__pycache__/
+**/migrations/
+*.csv
+*.xlsx
